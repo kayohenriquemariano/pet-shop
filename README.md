@@ -1,2 +1,3 @@
 # pet-shop
-Gerando uma aplicação para petshop
+Criando o  menu lateral do projeto
+
