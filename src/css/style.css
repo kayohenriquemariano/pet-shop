@@ -10,7 +10,29 @@
 }
 
 body {
+  display: flex;
   height: 100vh;
+  background-image: linear-gradient(to right, #9F7136, #35332D);
+}
+
+
+table {
+  width: 70vw;
+  margin: 40px auto 0 auto;
+  border-collapse: collapse;
+  text-align: center;
+  color: white;
+}
+
+main {
+  width: 100%;
+}
+
+main tr, th {
+
+border: 1px solid black;
+padding: 5px;
+
 }
 
 nav.menu-lateral {
@@ -26,9 +48,8 @@ nav.menu-lateral {
 
 
 nav.menu-lateral:hover{
-  width: 230px;
+  width: 240px;
   transition: .5s;
-
 }
 
 
