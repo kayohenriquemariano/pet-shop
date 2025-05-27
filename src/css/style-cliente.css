@@ -1,0 +1,21 @@
+#cliente{
+      /* display: none; */
+      margin-top: 20px;
+      border: 1px solid #ccc;
+      padding: 15px;
+      width: 100vw;
+}
+
+form{
+  display: flex;
+  text-align: center;
+  /* flex-direction: column; */
+}
+
+input{
+  width: 12%;
+  margin-right: 1%;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0 0 6px 0px #000000;
+}
